@@ -8,10 +8,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.50.1",
+    "@playwright/test": "^1.51.0",
     "@types/node": "^22.13.1"
   },
   "dependencies": {
+    "allure-commandline": "^2.33.0",
+    "allure-playwright": "^3.2.0",
     "bullmq": "^5.41.7",
     "pg-promise": "^11.10.2"
   }
